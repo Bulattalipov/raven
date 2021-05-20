@@ -1,0 +1,39 @@
+
+html{
+  scroll-behavior: smooth;
+}
+body{
+  min-height: 100vh;
+  font-family: 'Calibri', sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 20px;
+  color: #3F546C;
+}
+
+.container{
+  max-width: 1230px;
+  padding: 0 15px;
+  margin: 0 auto;
+}
+
+.container-2{
+  max-width: 1430px;
+  padding: 0 15px;
+  margin: 0 auto;
+}
+
+.container-3{
+  max-width: 1030px;
+  padding: 0 15px;
+  margin: 0 auto;
+}
+.title{
+  font-weight: bold;
+  font-size: 50px;
+  line-height: 61px;
+  letter-spacing: 1px;
+  color: #8747AB;
+  text-align: center;
+}
+
